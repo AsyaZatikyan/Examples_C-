@@ -20,7 +20,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-// пишем метод, который будет упорядчивать наш масив;
+// пишем метод, который будет упорядчивать наш массив;
 
 void SelectionSort(int[] array)
 {
